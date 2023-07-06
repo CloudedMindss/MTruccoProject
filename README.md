@@ -4,6 +4,7 @@
 ## Description
 added id="search-engine-optimization" to line 28
 Also added alt text to the photos to make it easier for screen readers
+Cleaned up code where I saw necessary 
 
 ## Installation 
 
